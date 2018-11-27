@@ -1,0 +1,2 @@
+普通字符串
+example.fileStream.PrintStreamTest@1e58cb8
